@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://himyoga.org/home/</loc>
+    <lastmod>2018-12-16T22:13:42+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://himyoga.org/post/welcome/</loc>
+    <lastmod>2018-12-16T22:00:31+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://himyoga.org/contact/</loc>
+    <lastmod>2018-12-16T22:00:31+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://himyoga.org/post/teacher-training/</loc>
+    <lastmod>2018-12-16T22:00:31+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://himyoga.org/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://himyoga.org/</loc>
+    <lastmod>2018-12-16T22:13:42+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://himyoga.org/post/</loc>
+    <lastmod>2018-12-16T22:00:31+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://himyoga.org/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
